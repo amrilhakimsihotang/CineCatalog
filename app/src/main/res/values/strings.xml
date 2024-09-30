@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ReligiTrip App</string>
+    <string name="about_page">About Me</string>
+    <string name="appbar_layout">appbar layout</string>
+    <string name="greeting">Good day, friend!</string>
+    <string name="caption">Caption</string>
+    <string name="overview">overview</string>
+    <string name="todo">TODO</string>
+    <string name="sharedetail">Hi friend,\nHerewith I would like to recommend you the nice trip place  </string>
+    <string name="sharedetail2"> this today.\n Thanks.</string>
+    <string name="activity_st">Activity</string>
+    <string name="about_string">1.Android and Jetpack Compose Enthusiast\n2.Kotlin Enthusiast\n3.Machine Learning Enthusiast\n</string>
+    <string name="about_me_string">About Me</string>
+    <string name="email_string">amrilhakim99@gmail.com</string>
+    <string name="name_string">Amril Hakim Sihotang</string>
+    <string name="myactivity_str">1.Working at the office.\n2.Studied new topics related to IT and programming.</string>
+    <string name="mydetail_string">Detail</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="welcome">Welcome</string>
+    <string name="popular">Popular</string>
+    <string name="disini_isi">disini isi</string>
+
+    <integer-array name="carousel_item_ids">
+        <item>@drawable/aqsa</item>
+        <item>@drawable/masjidcairo</item>
+        <item>@drawable/casablanca</item>
+        <item>@drawable/masjidbandaaceh</item>
+        <item>@drawable/sultanqaboos</item>
+    </integer-array>
+</resources>

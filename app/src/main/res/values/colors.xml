@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Blue Palette -->
+    <color name="blue_primary">#00A7DB</color>
+<!--    <color name="blue_primary">#2196F3</color>#00A7DB-->
+    <color name="blue_variant">#1976D2</color>
+    <color name="blue_primary_dark">#0D47A1</color>
+
+    <!-- Orange Palette -->
+    <color name="orange_primary">#FF9800</color>
+    <color name="orange_variant">#F57C00</color>
+
+    <!-- Neutral Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_surface">#212121</color>
+    <color name="gray_text">#757575</color>
+    <color name="dark_background">#121212</color>
+</resources>
